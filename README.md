@@ -1,2 +1,2 @@
-# Pre_Course_Henry
-Este es un repositorio de prueba
+Gerardo Gardunio Rosas
+Este repositorio es un ejemplo de como clonar un repositirio a nuestro ordenador.
